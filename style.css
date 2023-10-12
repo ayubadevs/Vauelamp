@@ -217,7 +217,7 @@ nav button span{
 /* MEDIA QUREY FOR MOBILE PHONES */
 @media (max-width:500px) {
     .hero{
-        height: 150vh;
+        height: 200vh;
         width: 100%;
         background:#1d2026;
     }
